@@ -1,4 +1,4 @@
-# Modeling and presentation of vaccination coverage estimates
+# Modeling and presentation of vaccination coverage estimates using data from household surveys
 
 Here are some example R code for the analyses and visualizations in "Modeling and presentation of vaccination coverage estimates using data from household surveys" by Dong and Wakefield (2021) (https://doi.org/10.1016/j.vaccine.2021.03.007).
 
