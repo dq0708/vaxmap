@@ -1,6 +1,6 @@
 # Modeling and presentation of vaccination coverage estimates
 
-Here are some example R code for the analyses and visualizations in "Modeling and presentation of vaccination coverage estimates using data from household surveys" (https://arxiv.org/abs/2004.03127).
+Here are some example R code for the analyses and visualizations in "Modeling and presentation of vaccination coverage estimates using data from household surveys" by Dong and Wakefield (2021) (https://doi.org/10.1016/j.vaccine.2021.03.007).
 
 - *data_cleaning.R*: code for data cleaning.
 - *model_fit.R*: code for fitting varous models using INLA in R. 
